@@ -38,6 +38,7 @@ class CalendarViewController: UIViewController, JTAppleCalendarViewDelegate, JTA
     let monthColor = UIColor.black
     let yearColor = UIColor.black
     let currentDate = NSDate()
+    //test
     override func viewDidLoad()
     {
         super.viewDidLoad()
